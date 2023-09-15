@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "cEykx9IdVLCPEM2Sp0kV/bN0y50os7hGEhA6PsqofRHoYa7cw/U+BxrKlPgLizx89/Cd3EmoG7DHCuAodI0Mgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maxwell_7consulting\\Documents\\estudos\\CleanArchitecture\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxwell_7consulting\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\maxwell_7consulting\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
+    "C:\\Users\\maxwell_7consulting\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\maxwell_7consulting\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\maxwell_7consulting\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

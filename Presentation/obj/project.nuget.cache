@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XidO8ivVlNCMsoLN0/NY+3I16g+txQ/hXJE8ZbU3d4Gqg7Ckyo9Dmiow1/Y6yxgZftn41jNplGZk8kK4l+k18Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maxwell_7consulting\\Documents\\estudos\\CleanArchitecture\\Presentation\\Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxwell_7consulting\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
